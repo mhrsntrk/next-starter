@@ -5,7 +5,7 @@ A Next.js starter template w/ Tailwind CSS
 ## Running Locally (Frontend)
 
 ```bash
-$ git clone https://github.com/mhrsntrk/next-startergit
+$ git clone https://github.com/mhrsntrk/next-starter.git
 $ cd mhrsntrk.com
 $ yarn
 $ yarn dev
