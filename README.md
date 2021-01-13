@@ -2,11 +2,11 @@
 
 A Next.js starter template w/ Tailwind CSS
 
-## Running Locally (Frontend)
+## Running Locally
 
 ```bash
 $ git clone https://github.com/mhrsntrk/next-starter.git
-$ cd mhrsntrk.com
+$ cd next-starter
 $ yarn
 $ yarn dev
 ```
